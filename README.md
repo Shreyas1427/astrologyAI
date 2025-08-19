@@ -49,16 +49,6 @@ If you don’t add a key, the app uses the built‑in rule‑based guidance.
   - Rule-based keyword routes (career, love, study, finance, health, etc.) that adapt to sign/element/modality/life path.
   - LLM mode composes a safe system prompt from the profile and your question, returning empathetic, actionable tips.
 
-## 🧪 Demo Script (2–5 minutes)
-1. **Intro (15s)**: “This is Vedaz Astro Lite, a lightweight AI astrologer built in React.”
-2. **Birth Input (45s)**: Enter name, date, time, place, timezone → *Generate Profile*.
-3. **Report (45s)**: Show Sun sign, element, modality, numerology, Chinese zodiac, and the daily message.
-4. **Free‑Text Question (60–90s)**: Ask a career or love question.
-   - Show **Rule‑based** guidance first.
-   - Switch to **OpenAI** mode (paste key) and ask again; compare depth.
-5. **Export (15s)**: Click **PNG/PDF** to save the snapshot.
-6. **Wrap‑up (15s)**: Summarize tech stack and how it meets the JD (NLP, LLMs, model improvements can be iterated).
-
 ## 🧯 Safety Notes
 - LLM prompt steers away from deterministic claims; focuses on supportive, practical suggestions.
 - Avoids health/finance absolutes; encourages agency and reflection.
